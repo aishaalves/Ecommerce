@@ -1,5 +1,5 @@
 # 🛍️ Ecommerce Inteligente para Pequenos Negócios
-## Apresentação Final do Projeto
+## Apresentação Final do Projeto 
 
 ---
 
