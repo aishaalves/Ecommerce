@@ -5,7 +5,7 @@
  * e testa uma requisição simples.
  * 
  * Uso: node test-chatbot.js
- */
+ */ 
 
 require('dotenv').config();
 const OpenAI = require('openai');
