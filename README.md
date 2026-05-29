@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Inteligente para Pequenos Negócios
+# 🛍️ Ecommerce Inteligente para Pequenos Negócios 
 
 Aplicação completa de e-commerce com funcionalidades de Machine Learning para recomendações e ChatBot integrado.
 
