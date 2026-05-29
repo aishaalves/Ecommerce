@@ -1,7 +1,7 @@
 # 🚀 Guia Rápido de Inicialização
 
 ## Passos Rápidos
-
+ 
 ### 1. Instalar Dependências
 
 ```bash
