@@ -9,7 +9,7 @@
     "start": "node dist/server.js",
     "seed": "ts-node src/database/seed.ts",
     "test:chatbot": "node test-chatbot.js"
-  },
+  }, 
   "keywords": [
     "ecommerce",
     "ml",
